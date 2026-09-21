@@ -31,6 +31,8 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 | 메모리 관리 | ARC와 순환 참조 방지 전략 | [velog](https://velog.io/@jxxnnee/Swift에서의-메모리-관리-방법ARC에-대해-설명하고-순환-참조Circular-Reference를-방지하기-위한-전략은-무엇인가요) |
 | Swift 언어 | 제네릭 사용의 이점과 구현 시 고려사항 | [velog](https://velog.io/@jxxnnee/Swift의-제네릭Generic을-사용하는-이점과-구현-시-고려해야-할-사항은-무엇인가요) |
 | Swift 언어 | 프로토콜 지향 프로그래밍(POP)의 장점과 클래스 기반과의 차이 | [velog](https://velog.io/@jxxnnee/Swift의-프로토콜-지향-프로그래밍Protocol-Oriented-Programming의-장점은-무엇이며-이를-클래스-기반-프로그래밍과-비교했을-때-어떤-차이점이-있나요) |
+| Swift 언어 | Combine 프레임워크란 무엇이며, 어떤 기능을 제공하나요? | [velog](https://velog.io/@jxxnnee/series/Swift-Combine-프레임워크란-무엇이며-어떤-기능을-제공하나요) |
+
 
 > 새 질문을 풀 때마다 이 표에 행을 추가합니다.
 
