@@ -41,7 +41,8 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 
 | 카테고리 | 질문 | 답변 |
 |---|---|---|
-| | | |
+| 컴퓨터 기초 | CPU 아키텍처의 종류(ARM, x86)와 각 특징 | [cpu-architecture.md](./answers/cpu-architecture.md) |
+| 빌드/도구 | 의존성 관리 도구(CocoaPods, Carthage, SPM)의 종류와 차이점 | [dependency-management.md](./answers/dependency-management.md) |
 
 > 새 질문을 풀 때마다 `answers/` 폴더에 파일을 추가하고 이 표에 행을 추가합니다.
 
