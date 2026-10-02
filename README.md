@@ -47,6 +47,14 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 
 > 새 질문을 풀 때마다 `answers/` 폴더에 파일을 추가하고 이 표에 행을 추가합니다.
 
+## ✍️ 번외
+
+질문 은행에는 없지만, 공부하다가 파생되어 따로 정리한 글들입니다.
+
+| 주제 | 링크 |
+|---|---|
+| Swift Concurrency에서 Task는 어떻게 취소되는가 | [velog](https://velog.io/@jxxnnee/Swift-Concurrency에서-Task는-어떻게-취소되는가) |
+
 ## 🔗 관련 링크
 
 - Blog: [velog.io/@jxxnnee](https://velog.io/@jxxnnee)
