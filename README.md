@@ -33,6 +33,7 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 | Swift 언어 | 프로토콜 지향 프로그래밍(POP)의 장점과 클래스 기반과의 차이 | [velog](https://velog.io/@jxxnnee/Swift의-프로토콜-지향-프로그래밍Protocol-Oriented-Programming의-장점은-무엇이며-이를-클래스-기반-프로그래밍과-비교했을-때-어떤-차이점이-있나요) |
 | Swift 언어 | Combine 프레임워크란 무엇이며, 어떤 기능을 제공하나요? | [velog](https://velog.io/@jxxnnee/series/Swift-Combine-프레임워크란-무엇이며-어떤-기능을-제공하나요) |
 | 네트워킹 | 여러 개의 비슷한 네트워크 API 클라이언트를 프로토콜로 추상화하려면 어떻게 설계하시겠습니까? | [velog](https://velog.io/@jxxnnee/Swift-여러-개의-비슷한-네트워크-API-클라이언트를-프로토콜로-추상화하려면-어떻게-설계하시겠습니까) |
+| 동시성 | 기존 completion handler 기반 코드를 async/await로 마이그레이션할 때 어떤 기준으로 우선순위를 정하시겠습니까? | [velog](https://velog.io/@jxxnnee/Swift-기존-completion-handler-기반-코드를-asyncawait로-마이그레이션할-때-어떤-기준으로-우선순위를-정하시겠습니까) |
 
 
 > 새 질문을 풀 때마다 이 표에 행을 추가합니다.
