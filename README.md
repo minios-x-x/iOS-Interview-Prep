@@ -35,6 +35,7 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 | 네트워킹 | 여러 개의 비슷한 네트워크 API 클라이언트를 프로토콜로 추상화하려면 어떻게 설계하시겠습니까? | [velog](https://velog.io/@jxxnnee/Swift-여러-개의-비슷한-네트워크-API-클라이언트를-프로토콜로-추상화하려면-어떻게-설계하시겠습니까) |
 | 동시성 | 기존 completion handler 기반 코드를 async/await로 마이그레이션할 때 어떤 기준으로 우선순위를 정하시겠습니까? | [velog](https://velog.io/@jxxnnee/Swift-기존-completion-handler-기반-코드를-asyncawait로-마이그레이션할-때-어떤-기준으로-우선순위를-정하시겠습니까) |
 | Swift 언어 | Swift의 Property Wrapper에 대해 설명해주세요. | [velog](https://velog.io/@jxxnnee/Swift의-Property-Wrapper에-대해-설명해주세요) |
+| UIKit/SwiftUI | iOS 앱에서 SwiftUI와 UIKit을 함께 사용하는 방법은 무엇인가요? | [velog](https://velog.io/@jxxnnee/iOS-SwiftUI와-UIKit을-함께-사용하는-방법은-무엇인가요-wcu71snq) |
 
 
 > 새 질문을 풀 때마다 이 표에 행을 추가합니다.
