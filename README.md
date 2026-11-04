@@ -37,6 +37,7 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 | Swift 언어 | Swift의 Property Wrapper에 대해 설명해주세요. | [velog](https://velog.io/@jxxnnee/Swift의-Property-Wrapper에-대해-설명해주세요) |
 | UIKit/SwiftUI | iOS 앱에서 SwiftUI와 UIKit을 함께 사용하는 방법은 무엇인가요? | [velog](https://velog.io/@jxxnnee/iOS-SwiftUI와-UIKit을-함께-사용하는-방법은-무엇인가요-wcu71snq) |
 | 앱 구조 | iOS 앱에서 Deep Link와 Universal Link의 차이점은 무엇인가요? | [velog](https://velog.io/@jxxnnee/iOS-Deep-Link와-Universal-Link의-차이점은-무엇인가요) |
+| 아키텍처 패턴 | iOS 앱에서 의존성 주입(Dependency Injection)은 어떤 목적으로 사용되나요? | [velog](https://velog.io/@jxxnnee/iOS-의존성-주입Dependency-Injection은-어떤-목적으로-사용되나요) |
 
 
 > 새 질문을 풀 때마다 이 표에 행을 추가합니다.
