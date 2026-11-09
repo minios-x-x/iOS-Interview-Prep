@@ -17,7 +17,7 @@ Apple 공식 도구로 Xcode에 완전히 통합돼 있어 별도 설치가 필�
 
 ## 실제 사용 경험 — CocoaPods vs SPM (Firebase SDK)
 
-GoodPharm 프로젝트에서 Firebase SDK를 도입할 때 CocoaPods를 사용했다. 이유는:
+실무 프로젝트에서 Firebase SDK를 도입할 때 CocoaPods를 사용했다. 이유는:
 
 1. **Firebase 공식 가이드가 오랫동안 CocoaPods 중심으로 작성되어 있었다.** SPM 지원은 이후에 추가된 것이라, 당시 문서·커뮤니티 자료가 CocoaPods 쪽이 더 풍부했다.
 2. **Crashlytics 사용을 위해 Run Script Build Phase에 심볼(dSYM) 업로드 스크립트(`${PODS_ROOT}/FirebaseCrashlytics/run`)를 추가하고, Input Files에 dSYM 경로 등을 지정해야 했다.** 이 설정이 CocoaPods 기준으로 잘 정리되어 있어서 그 경로를 따라가는 게 수월했다. (참고로 이 심볼 업로드 스크립트 자체는 CocoaPods만의 요구사항은 아니고, SPM으로 Firebase를 쓸 때도 동일하게 필요하다 — 다만 스크립트 경로가 달라진다.)
