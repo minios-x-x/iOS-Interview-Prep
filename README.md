@@ -60,6 +60,7 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 | 주제 | 링크 |
 |---|---|
 | Swift Concurrency에서 Task는 어떻게 취소되는가 | [velog](https://velog.io/@jxxnnee/Swift-Concurrency에서-Task는-어떻게-취소되는가) |
+| App Store 심사 시리즈 (1/6) — 심사 전체 흐름부터 짚어보자 | [velog](https://velog.io/@jxxnnee/App-Store-심사-전체-흐름부터-짚어보자-1-wtnyg9om) |
 
 ## 🔗 관련 링크
 
