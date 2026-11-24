@@ -62,6 +62,7 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 | Swift Concurrency에서 Task는 어떻게 취소되는가 | [velog](https://velog.io/@jxxnnee/Swift-Concurrency에서-Task는-어떻게-취소되는가) |
 | App Store 심사 시리즈 (1/7) — 심사 전체 흐름부터 짚어보자 | [velog](https://velog.io/@jxxnnee/App-Store-심사-전체-흐름부터-짚어보자-1-wtnyg9om) |
 | App Store 심사 시리즈 (2/7) — 제출 전에 챙길 것 ① 기기 테스트와 결제 | [velog](https://velog.io/@jxxnnee/iOS-App-Store-심사-전에-챙길-것-기기-테스트와-결제) |
+| App Store 심사 시리즈 (3/7) — 제출 전에 챙길 것 ② 심사 정보와 증빙 서류 | [velog](https://velog.io/@jxxnnee/iOS-App-Store-심사-전에-챙길-것-심사-정보와-증빙-서류) |
 
 ## 🔗 관련 링크
 
