@@ -96,7 +96,7 @@ picker.delegate = self
 present(picker, animated: true)
 ```
 
-이 코드는 개념을 보여주려고 줄인 것이고 컴파일해 보지는 않았다. 델리게이트에서 선택 결과를 받는 부분도 생략했다.
+이 코드는 개념을 보여주려고 줄인 예시이고, 델리게이트에서 선택 결과를 받는 부분은 생략했다.
 
 ## 4. 목적 문구
 
@@ -234,7 +234,7 @@ func showTerms(from presenter: UIViewController) {
 }
 ```
 
-이 코드도 컴파일해 보지는 않았다.
+이 코드도 개념을 보여주려고 줄인 예시다.
 
 ## 정리
 
