@@ -64,6 +64,7 @@ iOS 개발자 면접 대비를 위해 개념을 정리하고, 가능한 경우 �
 | App Store 심사 시리즈 (2/7) — 제출 전에 챙길 것 ① 기기 테스트와 결제 | [velog](https://velog.io/@jxxnnee/iOS-App-Store-심사-전에-챙길-것-기기-테스트와-결제) |
 | App Store 심사 시리즈 (3/7) — 제출 전에 챙길 것 ② 심사 정보와 증빙 서류 | [velog](https://velog.io/@jxxnnee/iOS-App-Store-심사-전에-챙길-것-심사-정보와-증빙-서류) |
 | App Store 심사 시리즈 (4/7) — 제출 전에 챙길 것 ③ 스크린샷, 메타데이터, 카피캣 | [velog](https://velog.io/@jxxnnee/iOS-App-Store-심사-전에-챙길-것-스크린샷-메타데이터-카피캣-x4r7lcdt) |
+| App Store 심사 시리즈 (5/7) — 제출 전에 챙길 것 ④ 권한과 개인정보 | [velog](https://velog.io/@jxxnnee/iOS-App-Store-심사-전에-챙길-것-권한과-개인정보) |
 
 ## 🔗 관련 링크
 
